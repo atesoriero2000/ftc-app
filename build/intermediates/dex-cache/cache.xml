@@ -2,46 +2,46 @@
 <items version="2" >
 
     <item
-        jar="/Users/Tony_Air/Desktop/ROBOTICS/ftc_app/FtcRobotController/build/intermediates/exploded-aar/ModernRobotics-release/jars/classes.jar"
+        jar="/Users/Tony_Air/Documents/ftc_app/FtcRobotController/build/intermediates/exploded-aar/Hardware-release/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="78166ead5f1793270fb95aff9f878f98331ac6e9">
-        <dex dex="/Users/Tony_Air/Desktop/ROBOTICS/ftc_app/FtcRobotController/build/intermediates/pre-dexed/debug/classes-d414fbe914131bff984165b3e744d12adfd14cf5.jar" />
+        sha1="55ecd0b0517650a2cffd06137a40de8af3bbbde3">
+        <dex dex="/Users/Tony_Air/Documents/ftc_app/FtcRobotController/build/intermediates/pre-dexed/debug/classes-99c10164a9268988f1a8907308365c58f631317a.jar" />
     </item>
     <item
-        jar="/Users/Tony_Air/Desktop/ROBOTICS/ftc_app/FtcRobotController/build/intermediates/exploded-aar/Hardware-release/jars/classes.jar"
+        jar="/Users/Tony_Air/Documents/ftc_app/FtcRobotController/build/intermediates/exploded-aar/ModernRobotics-release/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="312452430a607b39b92221fbed687e458ed9c8c7">
-        <dex dex="/Users/Tony_Air/Desktop/ROBOTICS/ftc_app/FtcRobotController/build/intermediates/pre-dexed/debug/classes-681d56dbce97100e77ab32ae8844ceacf9fe2306.jar" />
+        sha1="ad4adcdf8eb6ff2b3b4fe9f1d676f099db621d60">
+        <dex dex="/Users/Tony_Air/Documents/ftc_app/FtcRobotController/build/intermediates/pre-dexed/debug/classes-d0cf5cc5328d290432057a81efb27fbe10ab97be.jar" />
     </item>
     <item
-        jar="/Users/Tony_Air/Desktop/ROBOTICS/ftc_app/FtcRobotController/build/intermediates/exploded-aar/Analytics-release/jars/classes.jar"
+        jar="/Users/Tony_Air/Documents/ftc_app/FtcRobotController/build/intermediates/exploded-aar/WirelessP2p-release/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="be03c1ee2c4c731033845ec1846923138dc9e0fa">
-        <dex dex="/Users/Tony_Air/Desktop/ROBOTICS/ftc_app/FtcRobotController/build/intermediates/pre-dexed/debug/classes-f87b5d9b902bad9d0ffa9b09bf2ba7bfcef47053.jar" />
+        sha1="ebf8372b5bc9dc9f596ed438df36481099d51c41">
+        <dex dex="/Users/Tony_Air/Documents/ftc_app/FtcRobotController/build/intermediates/pre-dexed/debug/classes-2f5b97764001d4461439ffe43fa5e06025559a89.jar" />
     </item>
     <item
-        jar="/Users/Tony_Air/Desktop/ROBOTICS/ftc_app/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/jars/classes.jar"
+        jar="/Users/Tony_Air/Documents/ftc_app/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="51740db7999259bcef8a679f349034c760ceb172">
-        <dex dex="/Users/Tony_Air/Desktop/ROBOTICS/ftc_app/FtcRobotController/build/intermediates/pre-dexed/debug/classes-0856b6e4076da2fa6ca9b2657d2b4b8a7247db3c.jar" />
+        sha1="2ec6f06847bccfe30fb8f8f75ce888721e4fd275">
+        <dex dex="/Users/Tony_Air/Documents/ftc_app/FtcRobotController/build/intermediates/pre-dexed/debug/classes-966b337a7523d9eebe9634b50a3d7201866ffdbd.jar" />
     </item>
     <item
-        jar="/Users/Tony_Air/Desktop/ROBOTICS/ftc_app/FtcRobotController/build/intermediates/exploded-aar/WirelessP2p-release/jars/classes.jar"
+        jar="/Users/Tony_Air/Documents/ftc_app/FtcRobotController/build/intermediates/exploded-aar/Analytics-release/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="b5f9e5d9a3cadf7329bbbaea6def0fb86d3773a2">
-        <dex dex="/Users/Tony_Air/Desktop/ROBOTICS/ftc_app/FtcRobotController/build/intermediates/pre-dexed/debug/classes-bcf9d68adadc08affc0f4344ecc5144ba8644c72.jar" />
+        sha1="23c74caa2b901107adc4d0aec343c5b8e8be86fb">
+        <dex dex="/Users/Tony_Air/Documents/ftc_app/FtcRobotController/build/intermediates/pre-dexed/debug/classes-dde7310eedb236d4c2d76b16d502762a638d0b48.jar" />
     </item>
     <item
-        jar="/Users/Tony_Air/Desktop/ROBOTICS/ftc_app/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/jars/classes.jar"
+        jar="/Users/Tony_Air/Documents/ftc_app/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="9112d15701e2c29945597c234eb28110f3e77ddc">
-        <dex dex="/Users/Tony_Air/Desktop/ROBOTICS/ftc_app/FtcRobotController/build/intermediates/pre-dexed/debug/classes-d94566fb22f7d28109c9e887b89fdb59e3db84ef.jar" />
+        sha1="6da7d9bc8c9a82321450b6b4273d1746b6cade21">
+        <dex dex="/Users/Tony_Air/Documents/ftc_app/FtcRobotController/build/intermediates/pre-dexed/debug/classes-7c561313ff4b1e126c5aec1246b188bbc712027b.jar" />
     </item>
 
 </items>
