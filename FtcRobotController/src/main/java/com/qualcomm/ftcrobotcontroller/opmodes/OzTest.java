@@ -7,7 +7,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
  * This is a test of Automated Controls.
  * @author Ozaner Hansha
  */
-public class TestChasis extends OpMode
+public class OzTest extends OpMode
 {
     /**
      * Left/Right Motor Objects.
@@ -33,7 +33,7 @@ public class TestChasis extends OpMode
      * Calculates the speed of the motors based on the stick input.
      * @return The speed the motor should be set to.
      */
-    public static float getMotorSpeed()
+    public float getMotorSpeed()
     {
       return (gamepad1.left_stick_y + gamepad1.left_stick_x) * speedMultiplier;
     }
@@ -43,7 +43,7 @@ public class TestChasis extends OpMode
      * @param left - The power of the left motor.
      * @param right - The power of the right motor.
      */
-    public static void setMotors(float left, float right)
+    public void setMotors(float left, float right)
     {
       LEFT.setPower(left);
       RIGHT.setPower(right);
@@ -52,10 +52,10 @@ public class TestChasis extends OpMode
     /**
      * Prints the motor speed to the console.
      */
-    public static void printInput()
+    public void printInput()
     {
-      telemetry.addData("01:", "Left Motor: " + leftSpeed);
-      telemetry.addData("02:", "Right Motor: " + rightSpeed);
+      telemetry.addData("01:", "Left Motor: " + LEFT.getPower());
+      telemetry.addData("02:", "Right Motor: " + RIGHT.getPower());
     }
 
     /**
@@ -63,7 +63,7 @@ public class TestChasis extends OpMode
      * set the {@link speedMultiplier} to the given float value.
      * @param multiplier - The modifier to be multiplied by the speed.
      */
-    public static void checkGearShift(float multiplier)
+    public void checkGearShift(float multiplier)
     {
       if(gamepad1.left_stick_button)
          speedMultiplier = multiplier;
@@ -77,7 +77,7 @@ public class TestChasis extends OpMode
     @Override
     public void loop()
     {
-      checkGearShift(0.5); //Checks if the gear should shift.
+      checkGearShift(0.5f); //Checks if the gear should shift.
       setMotors(-getMotorSpeed(), getMotorSpeed());
       printInput(); //For Debigging.
     }

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/tonytesoriero/Desktop/Robotics/Locomotors/ftc-app/FtcRobotController/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_battery100.png",
+        "source": "/Users/tonytesoriero/Desktop/Robotics/Locomotors/ftc-app/FtcRobotController/src/main/res/drawable-xhdpi/icon_battery100.png"
+    },
+    {
+        "merged": "/Users/tonytesoriero/Desktop/Robotics/Locomotors/ftc-app/FtcRobotController/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_battery0.png",
+        "source": "/Users/tonytesoriero/Desktop/Robotics/Locomotors/ftc-app/FtcRobotController/src/main/res/drawable-xhdpi/icon_battery0.png"
+    },
+    {
+        "merged": "/Users/tonytesoriero/Desktop/Robotics/Locomotors/ftc-app/FtcRobotController/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_menu.png",
+        "source": "/Users/tonytesoriero/Desktop/Robotics/Locomotors/ftc-app/FtcRobotController/src/main/res/drawable-xhdpi/icon_menu.png"
+    },
+    {
+        "merged": "/Users/tonytesoriero/Desktop/Robotics/Locomotors/ftc-app/FtcRobotController/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_battery50.png",
+        "source": "/Users/tonytesoriero/Desktop/Robotics/Locomotors/ftc-app/FtcRobotController/src/main/res/drawable-xhdpi/icon_battery50.png"
+    },
+    {
+        "merged": "/Users/tonytesoriero/Desktop/Robotics/Locomotors/ftc-app/FtcRobotController/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_battery25.png",
+        "source": "/Users/tonytesoriero/Desktop/Robotics/Locomotors/ftc-app/FtcRobotController/src/main/res/drawable-xhdpi/icon_battery25.png"
+    },
+    {
+        "merged": "/Users/tonytesoriero/Desktop/Robotics/Locomotors/ftc-app/FtcRobotController/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_battery75.png",
+        "source": "/Users/tonytesoriero/Desktop/Robotics/Locomotors/ftc-app/FtcRobotController/src/main/res/drawable-xhdpi/icon_battery75.png"
+    },
+    {
+        "merged": "/Users/tonytesoriero/Desktop/Robotics/Locomotors/ftc-app/FtcRobotController/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/tonytesoriero/Desktop/Robotics/Locomotors/ftc-app/FtcRobotController/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tonytesoriero/Desktop/Robotics/Locomotors/ftc-app/FtcRobotController/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_robotcontroller.png",
+        "source": "/Users/tonytesoriero/Desktop/Robotics/Locomotors/ftc-app/FtcRobotController/src/main/res/drawable-xhdpi/icon_robotcontroller.png"
+    }
+]
